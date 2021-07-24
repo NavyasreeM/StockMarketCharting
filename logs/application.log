@@ -1,0 +1,2 @@
+2021-07-24 22:51:11,336 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-9 - Database [default] initialized at jdbc:mysql://localhost:3306/StockMarket
+2021-07-24 22:51:11,417 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-9 - Creating Pool for datasource 'default'
